@@ -22,5 +22,6 @@ python dqn.py
 
 # References 
 
-⋅⋅* https://medium.com/analytics-vidhya/reinforcement-learning-dino-bot-613c6daeea5d
+⋅⋅* https://medium.com/analytics-vidhya/reinforcement-learning-dino-bot-613c6daeea5d  
+
 ⋅⋅* https://gist.github.com/kharepratyush/8c87d209f6ba657597e3f919c23bd946
