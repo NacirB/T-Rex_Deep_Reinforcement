@@ -17,4 +17,4 @@ python dqn.py
 # Screenshot 
 
 
-![dino game](Screenshot.png)
+![dino game](Screenshot.PNG)
