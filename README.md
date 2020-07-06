@@ -1,1 +1,20 @@
-# T-Rex_Deep_Reinforcement
+# Introduction
+This repository contains an implementation of a Deep Q-Learning Network to play T-Rex google's game. 
+
+# Environment
+We will be using Selenium which is a portable framework for testing web applications and provides Python API interface for controls.
+
+# Setup 
+⋅⋅* After installing required packages make sure to install chrome driver from  [here](https://chromedriver.chromium.org/downloads)
+⋅⋅* Specify the path of the chromedriver.exe in the dqn.py file. 
+⋅⋅* Finally run  : 
+
+```
+python dqn.py 
+
+```
+
+# Screenshot 
+
+
+![dino game](Screenshot.png)
